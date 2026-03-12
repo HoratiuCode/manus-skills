@@ -7,6 +7,7 @@ A curated collection of specialized skills for **Manus AI**, designed to extend 
 | Skill Name | Description | Link |
 | :--- | :--- | :--- |
 | **Memecoin Trader** | Specialized workflows for trading memecoins on Solana, Base, and Ethereum. | [memecoin-trader/](./memecoin-trader/) |
+| **Stock Trader** | Identify undervalued stocks and make fact-based predictions based on historical data. | [stock-trader/](./stock-trader/) |
 
 ## 🚀 How to Use
 

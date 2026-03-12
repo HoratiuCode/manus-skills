@@ -8,6 +8,7 @@ A curated collection of specialized skills for **Manus AI**, designed to extend 
 | :--- | :--- | :--- |
 | **Memecoin Trader** | Specialized workflows for trading memecoins on Solana, Base, and Ethereum. | [memecoin-trader/](./memecoin-trader/) |
 | **Stock Trader** | Identify undervalued stocks and make fact-based predictions based on historical data. | [stock-trader/](./stock-trader/) |
+| **n8n Expert** | Create engineering-grade AI automations and provide strategic business consulting. | [n8n-expert/](./n8n-expert/) |
 
 ## 🚀 How to Use
 
